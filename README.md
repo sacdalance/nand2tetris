@@ -1,1 +1,1 @@
-In compliance to CMSC 131 - Computer Organization
+In compliance with CMSC 131 - Computer Organization
